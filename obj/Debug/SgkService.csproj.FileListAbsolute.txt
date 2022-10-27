@@ -1,0 +1,50 @@
+D:\winService\SgkService\SgkService\bin\Debug\SgkService.exe.config
+D:\winService\SgkService\SgkService\bin\Debug\SgkService.exe
+D:\winService\SgkService\SgkService\bin\Debug\SgkService.pdb
+D:\winService\SgkService\SgkService\bin\Debug\Topshelf.dll
+D:\winService\SgkService\SgkService\bin\Debug\Topshelf.xml
+D:\winService\SgkService\SgkService\obj\Debug\SgkService.csproj.CoreCompileInputs.cache
+D:\winService\SgkService\SgkService\obj\Debug\SgkService.csproj.CopyComplete
+D:\winService\SgkService\SgkService\obj\Debug\SgkService.exe
+D:\winService\SgkService\SgkService\obj\Debug\SgkService.pdb
+D:\winService\SgkService\SgkService\bin\Debug\HtmlAgilityPack.dll
+D:\winService\SgkService\SgkService\bin\Debug\HtmlAgilityPack.pdb
+D:\winService\SgkService\SgkService\bin\Debug\HtmlAgilityPack.xml
+D:\winService\SgkService - Kopya\SgkService\bin\Debug\SgkService.exe.config
+D:\winService\SgkService - Kopya\SgkService\bin\Debug\SgkService.exe
+D:\winService\SgkService - Kopya\SgkService\bin\Debug\SgkService.pdb
+D:\winService\SgkService - Kopya\SgkService\bin\Debug\FluentEmail.Core.dll
+D:\winService\SgkService - Kopya\SgkService\bin\Debug\FluentEmail.Smtp.dll
+D:\winService\SgkService - Kopya\SgkService\bin\Debug\HtmlAgilityPack.dll
+D:\winService\SgkService - Kopya\SgkService\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\winService\SgkService - Kopya\SgkService\bin\Debug\Topshelf.dll
+D:\winService\SgkService - Kopya\SgkService\bin\Debug\HtmlAgilityPack.pdb
+D:\winService\SgkService - Kopya\SgkService\bin\Debug\HtmlAgilityPack.xml
+D:\winService\SgkService - Kopya\SgkService\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\winService\SgkService - Kopya\SgkService\bin\Debug\Topshelf.xml
+D:\winService\SgkService - Kopya\SgkService\obj\Debug\SgkService.csproj.AssemblyReference.cache
+D:\winService\SgkService - Kopya\SgkService\obj\Debug\SgkService.csproj.CoreCompileInputs.cache
+D:\winService\SgkService - Kopya\SgkService\obj\Debug\SgkService.csproj.CopyComplete
+D:\winService\SgkService - Kopya\SgkService\obj\Debug\SgkService.exe
+D:\winService\SgkService - Kopya\SgkService\obj\Debug\SgkService.pdb
+D:\winService\SgkService\SgkService\bin\Debug\FluentEmail.Core.dll
+D:\winService\SgkService\SgkService\bin\Debug\FluentEmail.Smtp.dll
+D:\winService\SgkService\SgkService\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\winService\SgkService\SgkService\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\winService\SgkService\SgkService\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\winService\SgkService\SgkService\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\winService\SgkService\SgkService\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\winService\SgkService\SgkService\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\winService\SgkService\SgkService\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\winService\SgkService\SgkService\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\winService\SgkService\SgkService\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\winService\SgkService\SgkService\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\winService\SgkService\SgkService\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\winService\SgkService\SgkService\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\winService\SgkService\SgkService\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\winService\SgkService\SgkService\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\winService\SgkService\SgkService\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\winService\SgkService\SgkService\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\winService\SgkService\SgkService\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\winService\SgkService\SgkService\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\winService\SgkService\SgkService\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
